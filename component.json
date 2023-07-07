@@ -1,0 +1,38 @@
+{
+  "type": "component",
+  "name": "my-component",
+  "children": [
+    {
+      "name": "h1",
+      "nodeName": "h1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "cPfXSx"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "Hello World",
+          "evaluate": false
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": []
+}
